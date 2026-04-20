@@ -76,13 +76,3 @@ The main objective of this project is to:
 * Understand the trade-offs between classical ML and deep learning methods
 
 ---
-
-## Notes
-
-Each sub-project includes:
-
-* Detailed implementation
-* Explanation of methodology
-* Model evaluation and results
-* 
----
