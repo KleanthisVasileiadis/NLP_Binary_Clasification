@@ -54,7 +54,7 @@ Each approach is implemented as a separate module and includes its own detailed 
 
 ---
 
-## ⚠️ Important Note
+## Important Note
 
 These projects were originally developed and executed in a **Kaggle environment**.
 
